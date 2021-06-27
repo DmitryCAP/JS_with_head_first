@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    background-color: cornflowerblue;
+    width: 80%;
+    margin: 0 auto;
+
+    }
+.itk-slider{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.itk-slider .slide-img{
+max-width: 60%;
+height: 400px;
+}
+.contacts{
+    color: white;
+    background-color: rgb(8, 107, 53);
+    size: 20%;
+}
+button{
+    width: 150px;
+    color: teal;
+    border-color: rgb(228, 95, 18);
+   border-inline-style: ;  
+}
